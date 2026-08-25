@@ -19,7 +19,7 @@ public class EjercicioGitHub {
         // TODO code application logic here
         //Este es el cascaron de GITHUB/....Oscar Andrade estuvo Aqui!!!
         //Probando de Nuevo
-        System.out.println("Hola");
+        System.out.println("Hola manin");
         Scanner teclado=new Scanner(System.in);
     }
     
