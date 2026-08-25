@@ -21,6 +21,8 @@ public class EjercicioGitHub {
         //Probando de Nuevo
         Scanner input = new Scanner(System.in);
         
+        System.out.println("Hola");
+        
     }// Fin de MAin
     
 }// Fin de Class
