@@ -4,6 +4,8 @@
  */
 package ejerciciogithub;
 
+import java.util.Scanner;
+
 /**
  *
  * @author oscar
@@ -17,6 +19,7 @@ public class EjercicioGitHub {
         // TODO code application logic here
         //Este es el cascaron de GITHUB/....Oscar Andrade estuvo Aqui!!!
         //Probando de Nuevo
-    }
+        Scanner input = new Scanner(System.in);
+    }//Fin de Main
     
-}
+}//Fin de Class
