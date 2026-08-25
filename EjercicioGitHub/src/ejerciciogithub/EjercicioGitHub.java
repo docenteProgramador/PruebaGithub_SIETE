@@ -22,6 +22,7 @@ public class EjercicioGitHub {
         Scanner input = new Scanner(System.in);
         
         System.out.println("Hola");
+        System.out.println("MUNDOOOOOO");
         
     }// Fin de MAin
     
