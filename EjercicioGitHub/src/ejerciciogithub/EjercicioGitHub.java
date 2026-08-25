@@ -22,6 +22,7 @@ public class EjercicioGitHub {
         
         Scanner sc = new Scanner(System.in);
         System.out.println("HOLAAAAAA");
+        System.out.println("MUNDOOOOO");
     }// FIN MAIN
     
 }// FIN CLASS
