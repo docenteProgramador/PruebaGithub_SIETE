@@ -4,6 +4,8 @@
  */
 package ejerciciogithub;
 
+import java.util.Scanner;
+
 /**
  *
  * @author oscar
@@ -18,6 +20,7 @@ public class EjercicioGitHub {
         //Este es el cascaron de GITHUB/....Oscar Andrade estuvo Aqui!!!
         //Probando de Nuevo
         System.out.println("Hola");
+        Scanner teclado=new Scanner(System.in);
     }
     
 }
