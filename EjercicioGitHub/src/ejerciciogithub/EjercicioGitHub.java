@@ -17,6 +17,10 @@ public class EjercicioGitHub {
         // TODO code application logic here
         //Este es el cascaron de GITHUB/....Oscar Andrade estuvo Aqui!!!
         //Probando de Nuevo
+        
+        for(int i = 0; i < 10; i++) {
+            System.out.println("Hola");
+        }
     }
     
 }
