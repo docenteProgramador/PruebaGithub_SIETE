@@ -59,7 +59,7 @@ public class TrayectoriaBalistica {
                 alturaMaxima = altura;
                 segundoMax = t;
             }
-        }//Fin de For
+        }//Fin de For}
 
         System.out.printf("La altura maxima fue de %.2f m en el segundo %d\n", alturaMaxima, segundoMax);
 
