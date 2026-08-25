@@ -20,6 +20,8 @@ public class EjercicioGitHub {
         //Este es el cascaron de GITHUB/....Oscar Andrade estuvo Aqui!!!
         //Probando de Nuevo
         Scanner sc = new Scanner (System.in);
+        System.out.println("Hola mundo");
+        System.out.println("Progra 1");
     }//Fin de main
     
 }//Fin de Class
