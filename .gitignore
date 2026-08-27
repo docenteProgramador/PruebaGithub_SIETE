@@ -24,3 +24,6 @@ hs_err_pid*
 replay_pid*
 EjercicioGitHub/build/built-jar.properties
 EjercicioGitHub/dist/README.TXT
+/EjercicioGitHub/nbproject/private/
+/EjercicioGitHub/build/
+/EjercicioGitHub/dist/
