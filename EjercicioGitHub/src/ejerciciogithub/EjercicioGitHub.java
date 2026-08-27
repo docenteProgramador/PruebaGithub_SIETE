@@ -23,7 +23,7 @@ public class EjercicioGitHub {
         
         int hola = 0;
         System.out.println("alejandro");
-        
+        System.out.println("alejandro");
         
     }// Fin de main
     
