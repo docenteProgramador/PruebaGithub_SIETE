@@ -23,7 +23,8 @@ public class Facturacion {
 
         int precioProducto = 0;
         int cantidad = 0;
-        double descuento = 0;
+        double descuento = 0; 
+        
         double impuesto = 0;
         double subTotal = 0;
         double total = 0;
