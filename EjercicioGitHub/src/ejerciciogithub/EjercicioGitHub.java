@@ -21,11 +21,10 @@ public class EjercicioGitHub {
         //Probando de Nuevo
         Scanner input = new Scanner(System.in);
         
-        System.out.println("Hola");
-        System.out.println("MUNDOOOOOO");
-        System.out.println("holaa inge soy Marvin");
+        int hola = 0;
+        System.out.println("alejandro");
+        System.out.println("alejandro");
         
-        System.out.println("Buenas nochesssss");
-    }// Fin de MAin
+    }// Fin de main
     
 }// Fin de Class
